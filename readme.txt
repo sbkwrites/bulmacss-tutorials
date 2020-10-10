@@ -2,11 +2,20 @@ Welcome.
 
 BULMA CSS is a CSS Framework which more mobile friendly.
 
+--------------------------------------------
+In Lesson - 1 
 
-Step 1 :
-        Create a HTML friendly
-Step 2: 
-        Add Bulma href in <head> tag of the page.   
-        
-------------------------------------------------------------
-Lesson - 1 Notes will be coming in the next one.
+for sizes :
+            class="is-size-4"
+            class="is-size-1 is-uppercase is-italic"
+            
+        Syntax: 
+                class = "is-xxxx-x"
+                class = "has-xxxx-x"
+                class = "is-xxxx-x has-xxx-xxxx "
+            
+            refer bulma for more class types/.
+
+is and has are important.
+-------------------------------------------------
+Spacing  will be coming in Lesson - 2 
